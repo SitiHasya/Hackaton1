@@ -1,0 +1,6 @@
+streamlit
+chromadb
+ollama
+pymupdf
+python-docx
+rank_bm25
